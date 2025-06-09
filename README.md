@@ -9,4 +9,21 @@
 - git checkout <branch_name>
 - git pull origin <branch_name>
 
+- git stash 
+- git stash list 
+- git stash apply 
+
+- git log
+- git cherry-pick <commit_hash>
+- git reset --hard Head~${}
+- git reset --soft Head~${}
+- git push  origin --force 
+
+
+
+- git rebase 
+- git merge 
+
+
+
 
